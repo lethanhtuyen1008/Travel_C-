@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    var k = 1;
+}
+    <div id="content-wrapper">
+
+      <div class="container-fluid">
+
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/Admin">Trang chủ</a>
+          </li>
+          <li class="breadcrumb-item active">Đặt tour</li>
+        </ol>
+
+        <!-- DataTables Example -->
+        <div class="card mb-3">
+          <div class="card-header">
+            <i class="fas fa-table"></i>
+            Danh sách tour đặt</div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                  <tr>
+                    <th>STT</th>
+                    <th>Tên lịch khởi hành</th>
+                    <th>Tên danh sách</th>
+                    <th>Khách hàng</th>
+                    <th>Loại thanh toán</th>
+                    <th>Điểm đón</th>
+                    <th>Ngày đặt</th>
+                    <th>Trạng thái</th>
+                    <th>Tổng tiền</th>
+                    <th>Sửa</th>
+                    <th>Xóa</th>
+                  </tr>
+                </thead>
+                <tfoot>
+                  <tr>
+                    <th>STT</th>
+                    <th>Tên lịch khởi hành</th>
+                    <th>Tên danh sách</th>
+                    <th>Khách hàng</th>
+                    <th>Loại thanh toán</th>
+                    <th>Điểm đón</th>
+                    <th>Ngày đặt</th>
+                    <th>Trạng thái</th>
+                    <th>Tổng tiền</th>
+                    <th>Sửa</th>
+                    <th>Xóa</th>
+                  </tr>
+                </tfoot>
+                <tbody>
+
+                    @foreach (var item in ViewData["data"] as List<DTO_QuanLiTour.DTO_TourDat>){
+                      <tr>
+                        <td>@k</td>
+                        <td>@item.TENLICH</td>
+                        <td>@item.TENDANHSACH</td>
+                        <td>@item.TENKHACHHANG</td>
+                        <td>@item.TENLOAITT</td>
+                        <td>@item.DIEMDON</td>
+                        <td>@item.NGAYDAT</td>
+                        <td>@item.TRANGTHAI</td>
+                        <td>@item.TONGTIEN</td>
+                        <th><a href="/Admin/Book/Edit/@item.MATOURDAT">Sửa</a></th>
+                        <th><a href="/Admin/Book/Delete/@item.MATOURDAT">Xóa</a></th>
+                      </tr>
+                        k++;
+                    }
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+        </div>
+
+        <p class="small text-center text-muted my-5">
+          <em>More table examples coming soon...</em>
+        </p>
+
+      </div>
+
+    </div>

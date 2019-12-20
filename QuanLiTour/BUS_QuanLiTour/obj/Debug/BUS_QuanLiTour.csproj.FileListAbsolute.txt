@@ -1,0 +1,54 @@
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\BUS_QuanLiTour\obj\Debug\BUS_QuanLiTour.csprojResolveAssemblyReference.cache

@@ -1,0 +1,368 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var i = 0;
+    var k = 0;
+}
+@model IEnumerable<DTO_QuanLiTour.DTO_TourAll>
+<div class="colorlib-classes">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 colorlib-heading center-heading text-center animate-box">
+						<h1 class="heading-big">VIỆT NAM</h1>
+						<h2>Du lịch trong nước</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<div class="owl-carousel">
+                            @foreach(var item in Model){
+                                if(item.MaLoai.ToString().Trim() == "LT0001" && i<8)
+                                     {
+                                         i++;
+							            <div class="item">
+								            <div class="classes">
+									            <div class="classes-img" style="background-image: url(Themes/images/@item.TENHINH);">
+									            </div>
+									            <div class="wrap">
+										            <div class="desc">
+											            <span class="teacher">@item.TenLoai</span>
+											            <h3><a href ="/tours/details/@item.MaTour">@item.TenTour</a></h3>
+
+										            </div>
+										            <div class="pricing">
+											            <p><span class="price">@item.GIA đ</span> <span class="price old-price">@item.GIA - 10</span> <span class="more"><a href="#"><i class="icon-link"></i></a></span></p>
+										            </div>
+									            </div>
+								            </div>
+							            </div>
+                                        }
+                                    }
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	<div id="colorlib-counter" class="colorlib-counters">
+			<div class="container">
+				<div class="col-md-7">
+					<div class="about-desc">
+						<div class="about-img-1 animate-box" style="background-image: url(Themes/images/sapa.jpg);"></div>
+						<div class="about-img-2 animate-box" style="background-image: url(Themes/images/sapa2.jpg);"></div>
+					</div>
+				</div>
+				<div class="col-md-5">
+					<div class="row">
+						<div class="col-md-12 colorlib-heading animate-box">
+							<h1 class="heading-big">Đi đâu?</h1>
+							<h2>Bạn muốn đi đâu</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<p><strong>Tham quan những nơi du lịch HOT khắp cả nước</strong></p>
+							<p>Chương trình du lịch hấp dẫn, lịch trình tự chọn.</p>
+						</div>
+						<div class="col-md-6 col-sm-6 animate-box">
+							<div class="counter-entry">
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="600" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Đặt tour</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 animate-box">
+							<div class="counter-entry">
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="700" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Dịch vụ</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 animate-box">
+							<div class="counter-entry">
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="550" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Địa điểm</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 animate-box">
+							<div class="counter-entry">
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="200" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Khách sạn</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div class="colorlib-classes">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 colorlib-heading center-heading text-center animate-box">
+						<h1 class="heading-big">Danh sách tour du lịch HOT</h1>
+						<h2>Danh sách tour du lịch HOT</h2>
+					</div>
+				</div>
+				<div class="row">
+					    @foreach(var item in Model){
+                                if(k < 6)
+                                     {
+                                         k++;
+					            <div class="col-md-4 animate-box">
+						            <div class="classes">
+							            <div class="classes-img" style="background-image: url(Themes/images/@item.TENHINH);">
+							            </div>
+							            <div class="wrap">
+								            <div class="desc">
+									            <span class="teacher">@item.TenLoai</span>
+									            <h3><a href="/tours/details/@item.MaTour">@item.TenTour</a></h3>
+								            </div>
+								            <div class="pricing">
+									            <p><span class="price">@item.GIA đ</span> <span class="price old-price">@item.GIA - 10</span> <span class="more"><a href="#"><i class="icon-link"></i></a></span></p>
+								            </div>
+							            </div>
+						            </div>
+					            </div>
+                                }
+                            }
+				</div>
+			</div>	
+		</div>
+<div id="colorlib-testimony" class="testimony-img" style="background-image: url(Themes/images/img_bg_2.jpg); margin-bottom: 4em;" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 center-heading text-center colorlib-heading animate-box">
+						<h1 class="heading-big">Đánh giá</h1>
+						<h2>Đánh giá của khách hàng</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="testimony-flex">
+							<div class="one-fifth animate-box">
+								<span class="icon"><i class="icon-quotes-left"></i></span>
+								<div class="testimony-wrap">
+									<blockquote>
+										<p>Lào Cai là khu du lịch trọng tâm của miền Bắc với những thắng cảnh Sa Pa thị trấn trong mây.</p>
+									</blockquote>
+									<div class="desc">
+										<div class="figure-img" style="background-image: url(Themes/images/person1.jpg);"></div>
+										<h3>Lê Thanh Tuyên</h3>
+									</div>
+								</div>
+							</div>
+							<div class="one-fifth animate-box">
+								<span class="icon"><i class="icon-quotes-left"></i></span>
+								<div class="testimony-wrap">
+									<blockquote>
+										<p>Phan Xi Păng và Cửa khẩu Quốc tế Lào Cai Hà Khẩu.</p>
+									</blockquote>
+									<div class="desc">
+										<div class="figure-img" style="background-image: url(Themes/images/person2.jpg);"></div>
+										<h3>Bảo Nguyễn</h3>
+									</div>
+								</div>
+							</div>
+							<div class="one-fifth animate-box">
+								<span class="icon"><i class="icon-quotes-left"></i></span>
+								<div class="testimony-wrap">
+									<blockquote>
+										<p>Lào Cai có nhiều địa danh lịch sử, hang động tự nhiên, đặc sản và là nơi mang đậm nét đặc trưng văn hoá độc đáo của nhiều dân tộc anh em.</p>
+									</blockquote>
+									<div class="desc">
+										<div class="figure-img" style="background-image: url(Themes/images/person3.jpg);"></div>
+										<h3>Lê Huỳnh Thạch</h3>
+									</div>
+								</div>
+							</div>
+							<div class="one-fifth animate-box">
+								<span class="icon"><i class="icon-quotes-left"></i></span>
+								<div class="testimony-wrap">
+									<blockquote>
+										<p>Thưởng ngoạn phong cảnh núi Fanxifan hùng vĩ và ấn tượng - Đắm mình trong đồi chè xanh mướt ở Mộc Châu.</p>
+									</blockquote>
+									<div class="desc">
+										<div class="figure-img" style="background-image: url(Themes/images/person1.jpg);"></div>
+										<h3>Trương Thắng</h3>
+									</div>
+								</div>
+							</div>
+							<div class="one-fifth animate-box">
+								<span class="icon"><i class="icon-quotes-left"></i></span>
+								<div class="testimony-wrap">
+									<blockquote>
+										<p>Bản của dân tộc Mông và là nơi có ruộng lúa đẹp nhất Mù Cang Chải. Quý khách sẽ bị mê hoặc bởi vẻ đẹp hút hồn của cung đường ruộng bậc thang nổi tiếng.</p>
+									</blockquote>
+									<div class="desc">
+										<div class="figure-img" style="background-image: url(Themes/images/person1.jpg);"></div>
+										<h3>Nguyễn Thanh Hoàng</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="colorlib-event">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 row-pb-md">
+						<div class="row">
+							<div class="col-md-12 colorlib-heading animate-box">
+								<h1 class="heading-big">Events</h1>
+								<h2>Upcoming Events</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="event-entry animate-box">
+									<div class="desc">
+										<p class="meta"><span class="day">01-02</span><span class="month">Jun</span></p>
+										<p class="organizer"><span>Organized by:</span> <span>Noah Henderson</span></p>
+										<h2><a href="event.html">We Held Free Training for Basic Programming</a></h2>
+									</div>
+									<div class="location">
+										<span class="icon"><i class="icon-map"></i></span>
+										<p>291 South 21th Street, Suite 721 New York NY 10016</p>
+									</div>
+								</div>
+								<div class="event-entry animate-box">
+									<div class="desc">
+										<p class="meta"><span class="day">05-07</span><span class="month">Jun</span></p>
+										<p class="organizer"><span>Organized by:</span> <span>Noah Henderson</span></p>
+										<h2><a href="event.html">We Held Free Training for Basic Programming</a></h2>
+									</div>
+									<div class="location">
+										<span class="icon"><i class="icon-map"></i></span>
+										<p>291 South 21th Street, Suite 721 New York NY 10016</p>
+									</div>
+								</div>
+								<div class="event-entry animate-box">
+									<div class="desc">
+										<p class="meta"><span class="day">10-12</span><span class="month">Jun</span></p>
+										<p class="organizer"><span>Organized by:</span> <span>Noah Henderson</span></p>
+										<h2><a href="event.html">We Held Free Training for Basic Programming</a></h2>
+									</div>
+									<div class="location">
+										<span class="icon"><i class="icon-map"></i></span>
+										<p>291 South 21th Street, Suite 721 New York NY 10016</p>
+									</div>
+								</div>
+								<div class="event-entry animate-box">
+									<div class="desc">
+										<p class="meta"><span class="day">19-25</span><span class="month">Jun</span></p>
+										<p class="organizer"><span>Organized by:</span> <span>Noah Henderson</span></p>
+										<h2><a href="event.html">We Held Free Training for Basic Programming</a></h2>
+									</div>
+									<div class="location">
+										<span class="icon"><i class="icon-map"></i></span>
+										<p>291 South 21th Street, Suite 721 New York NY 10016</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-7 row-pb-md">
+						<div class="row">
+							<div class="col-md-12 colorlib-heading animate-box">
+								<h1 class="heading-big">Recent Blog</h1>
+								<h2>Recent Blog</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="block-21 d-flex animate-box">
+					            <a href="#" class="blog-img" style="background-image: url(Themes/images/blog-1.jpg);"></a>
+					            <div class="text">
+					               <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+					               <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
+					               <div class="meta">
+					                  <div><a href="#"><span class="icon-calendar"></span> May 29, 2018</a></div>
+					                  <div><a href="#"><span class="icon-user2"></span> Admin</a></div>
+					                  <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+					               </div>
+					            </div>
+					         </div>
+
+					         <div class="block-21 d-flex animate-box">
+					            <a href="#" class="blog-img" style="background-image: url(Themes/images/blog-2.jpg);"></a>
+					            <div class="text">
+					               <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+					               <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
+					               <div class="meta">
+					                  <div><a href="#"><span class="icon-calendar"></span> May 29, 2018</a></div>
+					                  <div><a href="#"><span class="icon-user2"></span> Admin</a></div>
+					                  <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+					               </div>
+					            </div>
+					         </div>
+
+					         <div class="block-21 d-flex animate-box">
+					            <a href="#" class="blog-img" style="background-image: url(Themes/images/blog-3.jpg);"></a>
+					            <div class="text">
+					               <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+					               <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
+					               <div class="meta">
+					                  <div><a href="#"><span class="icon-calendar"></span> May 29, 2018</a></div>
+					                  <div><a href="#"><span class="icon-user2"></span> Admin</a></div>
+					                  <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+					               </div>
+					            </div>
+					         </div>
+
+					         <div class="block-21 d-flex animate-box">
+					            <a href="#" class="blog-img" style="background-image: url(Themes/images/blog-4.jpg);"></a>
+					            <div class="text">
+					               <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+					               <p>ven the all-powerful Pointing has no control about the blind texts it is an almost</p>
+					               <div class="meta">
+					                  <div><a href="#"><span class="icon-calendar"></span> May 29, 2018</a></div>
+					                  <div><a href="#"><span class="icon-user2"></span> Admin</a></div>
+					                  <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+					               </div>
+					            </div>
+					         </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div id="colorlib-subscribe" class="subs-img" style="background-image: url(Themes/images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Subscribe Newsletter</h2>
+						<p>Subscribe our newsletter and get latest update</p>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3">
+						<div class="row">
+							<div class="col-md-12">
+							<form class="form-inline qbstp-header-subscribe">
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Enter your email">
+									</div>
+								</div>
+								<div class="col-one-third">
+									<div class="form-group">
+										<button type="submit" class="btn btn-primary">Subscribe Now</button>
+									</div>
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+

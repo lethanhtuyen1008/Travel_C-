@@ -1,0 +1,121 @@
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.cache
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.Form3.resources
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\bin\Debug\NguoiDung.dll
+D:\Công nghệ phần mềm\DoAnWin\QuanLiTour\bin\Debug\NguoiDung.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+C:\Users\ASUS\Documents\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+C:\Users\ASUS\Documents\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.exe
+C:\Users\ASUS\Documents\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\bin\Debug\ThietKeControls.dll
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\ThietKeControls.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\PhanQuyen.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\bin\Debug\ThietKeControls.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.LoginForm.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\DuPhongWin\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.pdb
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.pdb
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\bin\Debug\PhanQuyen.dll
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\bin\Debug\ThietKeControls.dll
+E:\BaoCao\WIN_NC\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+G:\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.pdb
+G:\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.exe
+G:\Travel_WinNC\QuanLiTour\bin\Debug\QuanLiTour.pdb
+G:\Travel_WinNC\QuanLiTour\bin\Debug\PhanQuyen.dll
+G:\Travel_WinNC\QuanLiTour\bin\Debug\ThietKeControls.dll
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+G:\Travel_WinNC\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.exe
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.pdb
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.exe
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.pdb
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\PhanQuyen.dll
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+E:\BaoCao\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses

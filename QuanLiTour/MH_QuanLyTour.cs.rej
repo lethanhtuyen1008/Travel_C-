@@ -1,0 +1,11 @@
+diff a/QuanLiTour/MH_QuanLyTour.cs b/QuanLiTour/MH_QuanLyTour.cs	(rejected hunks)
+@@ -17,8 +17,8 @@
+     {
+         XuLiData xuli = new XuLiData();
+         BUS_Tours busTours = new BUS_Tours();
+-        BUS_ChuongTrinhTour busCTTour = new BUS_ChuongTrinhTour();
+         string imglocation = "";//string filename
++        int set = 0;
+         public MH_QuanLyTour()
+         {
+             InitializeComponent();

@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model IEnumerable<DTO_QuanLiTour.DTO_TourAll>
+
+@foreach (var item in ViewData["a"] as List<DTO_QuanLiTour.DTO_TourAll>){
+<div>
+    <div>
+        <h1>@item.TenTour</h1>
+        <hr />
+    </div>
+    <div style="padding-left : 30px; padding-right : 30px">
+        <form action="/Admin/tour/edit/@item.MaTour" method="post">
+          <div class="row">
+            <div class="col">
+               <div class="form-group">
+                    <label for="ten_tour">Tên</label>
+                    <input type="text" class="form-control" placeholder="Tên tour" name="ten_tour" value="@item.TenTour">
+               </div>
+               <div class="form-group">
+                     <label for="pwd">Giá</label>
+                     <input type="text" class="form-control" placeholder="Giá tour" name="gia_tour" value="@item.GIA">
+               </div>
+                <div class="form-group">
+                     <label for="pwd">Số chỗ</label>
+                     <input type="text" class="form-control" placeholder="Giá tour" name="so_cho" value="@item.SoCho">
+               </div>
+                
+            </div>
+            <div class="col">
+              <div class="form-group">
+                    <label for="ten_tour">Loại</label>
+                    <select id="internal-select-picker" name="loai_tour" class="form-control selectpicker" data-live-search="true">
+                      <option value="LT0001">Trong nước</option>
+                      <option value="LT0002">Nước ngoài</option>
+                    </select>
+               </div>
+               <div class="form-group">
+                     <label for="pwd">Số ngày</label>
+                     <input type="text" class="form-control" placeholder="Gía tour" name="so_ngay" value="@item.SoNgay">
+               </div>
+            </div>
+          </div>
+            <hr />
+            <div><h2>Chương trình tour</h2>
+               
+           <div class="row">
+                @foreach (var itemCT in ViewData["chuongtrinh"] as List<DTO_QuanLiTour.DTO_ChuongTrinhTour>){
+                    <div class="col-6" style="border : solid 1px #cbc9c9">
+                        <div class="form-group" style="display : none">
+                            <label for="ten_tour">Tên chương trình</label>
+                            <input type="text" class="form-control" placeholder="Tên tour" name="ma_chuongtrinh" value="@itemCT.MACHUONGTRINH">
+                       </div>
+                       <div class="form-group">
+                            <label for="ten_tour">Tên chương trình</label>
+                            <input type="text" class="form-control" placeholder="Tên tour" name="chuong_trinh" value="@itemCT.TENCHUONGTRINH">
+                       </div>
+                        <div class="form-group">
+                             <label for="pwd">Khách sạn</label>
+                             <input type="text" class="form-control" placeholder="Giá tour" name="khachsan" value="@itemCT.TENKHACHSAN">
+                       </div>
+                        <div class="form-group">
+                             <label for="pwd">Ngày</label>
+                             <input type="text" class="form-control" placeholder="Giá tour" name="ngay" value="@itemCT.NGAY">
+                       </div>
+                        <div class="row" style="border : solid 1px #cbc9c9">
+                     @foreach (var itemCTCT in ViewData["chitiet"] as List<DAL_QuanLiTour.CHITIETCHUONGTRINH>){
+                         if(itemCT.MACHUONGTRINH.Equals(itemCTCT.MACHUONGTRINH)){
+                                 foreach (var itemDD in ViewData["diadiem"] as List<DAL_QuanLiTour.DIADIEMDULICH>){
+                                     if(itemCTCT.MADIADIEM.Equals(itemDD.MADIADIEM)){
+                                    <div class="col-6" style="border : solid 1px #cbc9c9">
+                                       <div class="form-group">
+                                            <label for="ten_tour">Địa điểm</label>
+                                            <select name="dia_diem" class="form-control selectpicker" data-live-search="true">
+                                              @foreach (var itemDDL in ViewData["diadiem"] as List<DAL_QuanLiTour.DIADIEMDULICH>){
+                                                  if(itemCTCT.MADIADIEM.Equals(itemDDL.MADIADIEM)){
+                                                    <option selected="selected" value="@itemDDL.MADIADIEM">@itemDDL.TENDIADIEM</option>
+                                              }
+                                                  else
+                                                  {
+                                                    <option value="@itemDDL.MADIADIEM">@itemDDL.TENDIADIEM</option>
+                                              }
+                                              }
+                                            </select>
+                                       </div>
+                                    </div>
+                                 }
+                                 }
+                     }
+                     }
+                            </div>
+                    </div>
+                }
+          </div>
+
+            </div>
+            <div class="col-12"><input class="col-12" type="submit" value="Lưu" style="background-color : #FE2E2E; border-radius : 30px; color : white; height : 50px"/></div>
+        </form>
+    </div>
+</div>
+}

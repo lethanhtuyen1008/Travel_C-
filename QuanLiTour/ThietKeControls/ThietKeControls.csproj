@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E68ACDB5-AC3D-4600-9829-D1B3150D3118}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ThietKeControls</RootNamespace>
+    <AssemblyName>ThietKeControls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.36, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxIP.cs" />
+    <Compile Include="itemCTTour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="itemCTTour.Designer.cs">
+      <DependentUpon>itemCTTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemDiaDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="itemDiaDiem.Designer.cs">
+      <DependentUpon>itemDiaDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabelIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBoxIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TuyenLe.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="itemCTTour.resx">
+      <DependentUpon>itemCTTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemDiaDiem.resx">
+      <DependentUpon>itemDiaDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxIP.resx">
+      <DependentUpon>TextBoxIP.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL_QuanLiTour\DAL_QuanLiTour.csproj">
+      <Project>{9e643022-947c-42f8-adb9-7abafcdbb7fd}</Project>
+      <Name>DAL_QuanLiTour</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLiTour\DTO_QuanLiTour.csproj">
+      <Project>{7f4a1a0a-c748-404d-bfb3-93f8d1f9b40f}</Project>
+      <Name>DTO_QuanLiTour</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhanQuyen\PhanQuyen.csproj">
+      <Project>{572AEAF3-93AC-45F2-8BB4-F885E128F10C}</Project>
+      <Name>PhanQuyen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

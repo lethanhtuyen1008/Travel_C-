@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 16.75, 22.125" name="DAL_QuanLiTravel">
+  <DataContextMoniker Name="/DAL_QuanLiTravelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="22555110-cf90-4cae-b590-8f48b48ad978" absoluteBounds="12, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/CHITIETCHUONGTRINH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="375a3a40-c2e9-41f0-9aed-4f3e4db76aaa" absoluteBounds="12.015, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5cf3a6d8-ff6b-4b27-b695-61c595e08421" absoluteBounds="9, 5.5, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/TOURDAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ea34443-5421-4682-bfcd-784b4fe1cda5" absoluteBounds="9.015, 5.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e0276c04-2a0d-4383-b1e7-2b3e07446009" absoluteBounds="9, 15.375, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/CHITIETDIKEM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fcdcfeff-23e5-46c7-bd60-849a8e67ac74" absoluteBounds="9.015, 15.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4da7b644-4b3e-49ef-8a29-b691deaff452" absoluteBounds="3.5, 6.625, 2, 1.5785953776041657">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/CHITIETGIAVE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dfc00a24-6c6d-45f9-825d-1b3e5859b49d" absoluteBounds="3.515, 7.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d298cf1c-0a63-4639-bda6-b30d090f2407" absoluteBounds="0.75, 11.875, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/CHITIETTHAMQUAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="574e2459-c34e-4c1f-9cac-df6821c1a6f4" absoluteBounds="0.765, 12.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72e1fbf3-bb5d-4feb-a3df-55a95fb6f9af" absoluteBounds="9.25, 2.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/CHUONGTRINHTOUR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="688f2b06-9525-4612-b21e-f2130dfeb006" absoluteBounds="9.265, 2.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d9f2add-c1d9-4600-b75a-5d384522f85a" absoluteBounds="6.25, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/DANHSACHDICHVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="501cfd2b-7ea8-447a-adc4-7c100b381d8d" absoluteBounds="6.265, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6cba3c64-441a-4296-8766-7c220016b9d3" absoluteBounds="6.25, 15.75, 2, 1.1939925130208362">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/DANHSACHNGUOIDIKEM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d7a3488-c249-4105-8417-650106ce4b68" absoluteBounds="6.265, 16.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ce11035-237e-44a5-9841-62ffc2dd83f1" absoluteBounds="9.25, 12.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/DIADIEMDULICH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdba96a2-da61-4fd1-841c-82b93271cc89" absoluteBounds="9.265, 12.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8bdaef4-a9a9-4f69-a08a-e9213eab69b2" absoluteBounds="3.5, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/DICHVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad3a3c2f-8930-4d10-abae-0b3eb8606e24" absoluteBounds="3.515, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="83d18fc9-2eb7-4e86-91ae-2df0b614d233" absoluteBounds="0.75, 6.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/GIAVE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8839c05d-925e-4614-9a12-ca41a7a187a1" absoluteBounds="0.765, 7.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7feb8ca0-41f0-44bc-a212-89a1490fb71a" absoluteBounds="11.75, 11.875, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/HUONGDANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3444bd1f-977a-49ca-8b78-0c063095e352" absoluteBounds="11.765, 12.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd5a077c-7e83-4c0a-9ef1-a0327696d6a5" absoluteBounds="6.25, 19.875, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1fe2a99-0937-42c8-84d0-580b6f18685e" absoluteBounds="6.265, 20.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a34e7d88-3e9c-470d-bdf1-f54cf5ddb914" absoluteBounds="6.5, 9.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/KHACHSAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0d64809-4865-48e7-9f59-22b60d243171" absoluteBounds="6.515, 10.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a68d9374-b679-4725-a0bd-7a628f35dd12" absoluteBounds="6.25, 5.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/LICHKHOIHANH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f6222d3-265f-4436-b9d9-1a54797c4021" absoluteBounds="6.265, 6.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ef3e8b9-b774-46f2-9ec7-2654e991aef6" absoluteBounds="0.75, 9.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/LOAIKHACH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ebc0e4e-73c3-400b-9efe-4e71271012db" absoluteBounds="0.765, 10.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d21a925d-d799-45f6-9a0e-7f40f3a173c8" absoluteBounds="6.25, 17.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/LOAITHANHTOAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57a66e23-f21d-4046-9aac-d7119a3af213" absoluteBounds="6.265, 18.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="af531285-96fb-40e0-860b-a88b39affa9e" absoluteBounds="0.75, 3.875, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/LOAITOUR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba13f129-1978-4314-99a0-1405255b7d68" absoluteBounds="0.765, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27c6a4cc-d0bb-479e-9869-a1ec5f1a23a3" absoluteBounds="11.75, 15.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QL_ManHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2c27364-a314-4b47-80dd-02b916efff37" absoluteBounds="11.765, 15.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d166b2e3-1662-47bf-9491-cd91dcba6c40" absoluteBounds="11.75, 8.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QL_NguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14b39c6c-0558-4c1a-aeca-6355f22b5f4f" absoluteBounds="11.765, 9.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8ba8dac-816b-4db3-9f89-4ae02c5d1e5f" absoluteBounds="14.5, 6.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QL_NguoiDungNhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19045e56-dc92-49b7-9f6d-52f4fba2bf9c" absoluteBounds="14.515, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d3803bf-df41-4826-8e89-18e5b1e37476" absoluteBounds="11.75, 6.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QL_NhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ee00983-0c3b-4338-bc05-9a25fa494a13" absoluteBounds="11.765, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a631c04-7c92-45d8-99ad-ff5b8402172d" absoluteBounds="14.5, 9.25, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QL_PhanQuyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5ba370d-a649-49d2-9df9-94f8ea7dbced" absoluteBounds="14.515, 9.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c126cd5-af51-4e8d-bf75-a16478ca9cbe" absoluteBounds="6.5, 12.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/QUOCGIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="106587b1-54e1-4ae1-b250-81d026846141" absoluteBounds="6.515, 13.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78a5e3b2-8ed9-4a10-94da-f2fb1c4685c3" absoluteBounds="3.75, 9.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/TINH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff10e793-0ffe-4128-84ea-b3ba1deecd3c" absoluteBounds="3.765, 10.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" absoluteBounds="3.5, 3.25, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/DAL_QuanLiTravelDataContext/TOUR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb348deb-5a46-415d-a38a-d836334182b7" absoluteBounds="3.515, 3.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11.25 : 3.44314697265625); (12 : 3.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/CHUONGTRINHTOUR/CHUONGTRINHTOUR_CHITIETCHUONGTRINH" />
+      <nodes>
+        <classShapeMoniker Id="72e1fbf3-bb5d-4feb-a3df-55a95fb6f9af" />
+        <classShapeMoniker Id="22555110-cf90-4cae-b590-8f48b48ad978" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 16.3469962565104); (8.54166666666667 : 16.3469962565104 : JumpStart); (8.70833333333333 : 16.3469962565104 : JumpEnd); (8.75 : 16.3469962565104); (8.75 : 8.4151025390625); (9.38541466666667 : 8.4151025390625 : JumpStart); (9.55208133333333 : 8.4151025390625 : JumpEnd); (10 : 8.4151025390625); (10 : 8.0401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/DANHSACHNGUOIDIKEM/DANHSACHNGUOIDIKEM_TOURDAT" />
+      <nodes>
+        <classShapeMoniker Id="6cba3c64-441a-4296-8766-7c220016b9d3" />
+        <classShapeMoniker Id="5cf3a6d8-ff6b-4b27-b695-61c595e08421" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.9859981282552); (8.54166666666667 : 15.9859981282552 : JumpStart); (8.95833333333333 : 15.9859981282552 : JumpEnd); (9 : 15.9859981282552)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/DANHSACHNGUOIDIKEM/DANHSACHNGUOIDIKEM_CHITIETDIKEM" />
+      <nodes>
+        <classShapeMoniker Id="6cba3c64-441a-4296-8766-7c220016b9d3" />
+        <classShapeMoniker Id="e0276c04-2a0d-4383-b1e7-2b3e07446009" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 14.0857975260417); (13.90625 : 14.0857975260417); (13.90625 : 4.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/DIADIEMDULICH/DIADIEMDULICH_CHITIETCHUONGTRINH" />
+      <nodes>
+        <classShapeMoniker Id="5ce11035-237e-44a5-9841-62ffc2dd83f1" />
+        <classShapeMoniker Id="22555110-cf90-4cae-b590-8f48b48ad978" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.44314697265625); (7.25 : 1.44314697265625); (7.25 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/DICHVU/DICHVU_DANHSACHDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="c8bdaef4-a9a9-4f69-a08a-e9213eab69b2" />
+        <classShapeMoniker Id="7d9f2add-c1d9-4600-b75a-5d384522f85a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.44314697265625); (3.5 : 7.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/GIAVE/GIAVE_CHITIETGIAVE" />
+      <nodes>
+        <classShapeMoniker Id="83d18fc9-2eb7-4e86-91ae-2df0b614d233" />
+        <classShapeMoniker Id="4da7b644-4b3e-49ef-8a29-b691deaff452" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 20.8565991210938); (8.875 : 20.8565991210938); (8.875 : 8.6651025390625); (9.468748 : 8.6651025390625); (9.468748 : 8.0401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/KHACHHANG/KHACHHANG_TOURDAT" />
+      <nodes>
+        <classShapeMoniker Id="dd5a077c-7e83-4c0a-9ef1-a0327696d6a5" />
+        <classShapeMoniker Id="5cf3a6d8-ff6b-4b27-b695-61c595e08421" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 9.75); (8.40625 : 4.36464680989583); (9.25 : 4.36464680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/KHACHSAN/KHACHSAN_CHUONGTRINHTOUR" />
+      <nodes>
+        <classShapeMoniker Id="a34e7d88-3e9c-470d-bdf1-f54cf5ddb914" />
+        <classShapeMoniker Id="72e1fbf3-bb5d-4feb-a3df-55a95fb6f9af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 6.76044840494792); (8.32291666666667 : 6.76044840494792 : JumpStart); (8.48958333333333 : 6.76044840494792 : JumpEnd); (9 : 6.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/LICHKHOIHANH/LICHKHOIHANH_TOURDAT" />
+      <nodes>
+        <classShapeMoniker Id="a68d9374-b679-4725-a0bd-7a628f35dd12" />
+        <classShapeMoniker Id="5cf3a6d8-ff6b-4b27-b695-61c595e08421" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.1362939453125); (3.125 : 11.5112939453125); (3.125 : 15); (8.625 : 15); (8.69107443490112 : 15.0660744349011 : JumpStart); (8.80892556509888 : 15.1839255650989 : JumpEnd); (8.81607443490112 : 15.1910744349011 : JumpStart); (8.93392556509888 : 15.3089255650989 : JumpEnd); (9 : 15.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/LOAIKHACH/LOAIKHACH_CHITIETDIKEM" />
+      <nodes>
+        <classShapeMoniker Id="5ef3e8b9-b774-46f2-9ec7-2654e991aef6" />
+        <classShapeMoniker Id="e0276c04-2a0d-4383-b1e7-2b3e07446009" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.78125); (3.59375 : 9.78125); (3.59375 : 8.20359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/LOAIKHACH/LOAIKHACH_CHITIETGIAVE" />
+      <nodes>
+        <classShapeMoniker Id="5ef3e8b9-b774-46f2-9ec7-2654e991aef6" />
+        <classShapeMoniker Id="4da7b644-4b3e-49ef-8a29-b691deaff452" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 18.4431469726563); (8.625 : 18.4431469726563); (8.625 : 8.5401025390625); (8.66666666666667 : 8.5401025390625 : JumpStart); (8.83333333333333 : 8.5401025390625 : JumpEnd); (9.38541466666667 : 8.5401025390625 : JumpStart); (9.55208133333333 : 8.5401025390625 : JumpEnd); (10.531252 : 8.5401025390625); (10.531252 : 8.0401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/LOAITHANHTOAN/LOAITHANHTOAN_TOURDAT" />
+      <nodes>
+        <classShapeMoniker Id="d21a925d-d799-45f6-9a0e-7f40f3a173c8" />
+        <classShapeMoniker Id="5cf3a6d8-ff6b-4b27-b695-61c595e08421" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 8.75); (13.8473244349011 : 8.65267556509888 : JumpStart); (13.9651755650989 : 8.53482443490112 : JumpEnd); (14.125 : 8.375); (14.125 : 6.94314697265625); (14.5 : 6.94314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/QL_NguoiDung/QL_NguoiDung_QL_NguoiDungNhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="d166b2e3-1662-47bf-9491-cd91dcba6c40" />
+        <classShapeMoniker Id="e8ba8dac-816b-4db3-9f89-4ae02c5d1e5f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 6.53407348632813); (13.8229166666667 : 6.53407348632812 : JumpStart); (13.9895833333333 : 6.53407348632813 : JumpEnd); (14.5 : 6.53407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/QL_NhomNguoiDung/QL_NhomNguoiDung_QL_NguoiDungNhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="0d3803bf-df41-4826-8e89-18e5b1e37476" />
+        <classShapeMoniker Id="e8ba8dac-816b-4db3-9f89-4ae02c5d1e5f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 15.9719962565104); (15.5 : 15.9719962565104); (15.5 : 10.6362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/QL_ManHinh/QL_ManHinh_QL_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="27c6a4cc-d0bb-479e-9869-a1ec5f1a23a3" />
+        <classShapeMoniker Id="3a631c04-7c92-45d8-99ad-ff5b8402172d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 7.5744429077524); (13.8473244349011 : 7.67176734265353 : JumpStart); (13.9651755650989 : 7.78961847285128 : JumpEnd); (14.0660744349011 : 7.89051734265353 : JumpStart); (14.1839255650989 : 8.00836847285128 : JumpEnd); (14.3125 : 8.1369429077524); (14.3125 : 9.94314697265625); (14.5 : 9.94314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/QL_NhomNguoiDung/QL_NhomNguoiDung_QL_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="0d3803bf-df41-4826-8e89-18e5b1e37476" />
+        <classShapeMoniker Id="3a631c04-7c92-45d8-99ad-ff5b8402172d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 13.4719962565104); (8.54166666666667 : 13.4719962565104 : JumpStart); (8.95833333333333 : 13.4719962565104 : JumpEnd); (9.25 : 13.4719962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/QUOCGIA/QUOCGIA_DIADIEMDULICH" />
+      <nodes>
+        <classShapeMoniker Id="0c126cd5-af51-4e8d-bf75-a16478ca9cbe" />
+        <classShapeMoniker Id="5ce11035-237e-44a5-9841-62ffc2dd83f1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 11.0689925130208); (4.75 : 14.2973453776042); (8.54166666666667 : 14.2973453776042 : JumpStart); (8.95833333333333 : 14.2973453776042 : JumpEnd); (9.25 : 14.2973453776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/TINH/TINH_DIADIEMDULICH" />
+      <nodes>
+        <classShapeMoniker Id="78a5e3b2-8ed9-4a10-94da-f2fb1c4685c3" />
+        <classShapeMoniker Id="5ce11035-237e-44a5-9841-62ffc2dd83f1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 10.4719962565104); (6.5 : 10.4719962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/TINH/TINH_KHACHSAN" />
+      <nodes>
+        <classShapeMoniker Id="78a5e3b2-8ed9-4a10-94da-f2fb1c4685c3" />
+        <classShapeMoniker Id="a34e7d88-3e9c-470d-bdf1-f54cf5ddb914" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.95034962109375); (8.32291666666667 : 4.95034962109375 : JumpStart); (8.48958333333333 : 4.95034962109375 : JumpEnd); (11.15625 : 4.95034962109375); (11.15625 : 4.4631982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/TOUR/TOUR_CHUONGTRINHTOUR" />
+      <nodes>
+        <classShapeMoniker Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" />
+        <classShapeMoniker Id="72e1fbf3-bb5d-4feb-a3df-55a95fb6f9af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.72679768880208); (6.25 : 3.72679768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/TOUR/TOUR_DANHSACHDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" />
+        <classShapeMoniker Id="7d9f2add-c1d9-4600-b75a-5d384522f85a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.59780110677083); (5.875 : 5.97280110677083); (5.875 : 5.5); (6.25 : 5.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/TOUR/TOUR_LICHKHOIHANH" />
+      <nodes>
+        <classShapeMoniker Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" />
+        <classShapeMoniker Id="a68d9374-b679-4725-a0bd-7a628f35dd12" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.75); (3.125 : 6.375); (3.125 : 4.42390055338542); (3.5 : 4.42390055338542)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/GIAVE/GIAVE_TOUR" />
+      <nodes>
+        <classShapeMoniker Id="83d18fc9-2eb7-4e86-91ae-2df0b614d233" />
+        <classShapeMoniker Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.80894653320313); (3.04166666666667 : 4.80894653320312 : JumpStart); (3.20833333333333 : 4.80894653320313 : JumpEnd); (3.5 : 4.80894653320313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DAL_QuanLiTravelDataContext/LOAITOUR/LOAITOUR_TOUR" />
+      <nodes>
+        <classShapeMoniker Id="af531285-96fb-40e0-860b-a88b39affa9e" />
+        <classShapeMoniker Id="cc7d3be3-98c2-42b5-8917-b6004c0e5600" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

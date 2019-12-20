@@ -1,0 +1,341 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    	<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="~/Themes/css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="~/Themes/css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="~/Themes/css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="~/Themes/css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="~/Themes/css/flexslider.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="~/Themes/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="Themes/css/owl.theme.default.min.css">
+	
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="~/Themes/fonts/flaticon/font/flaticon.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="~/Themes/css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="~/Themes/js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+		
+	<div class="colorlib-loader"></div>
+
+	<div id="page">
+		<nav class="colorlib-nav" role="navigation">
+			<div class="upper-menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-4">
+							<p>Công ty du lịch Travelive</p>
+						</div>
+						<div class="col-xs-6 col-md-push-2 text-right">
+							<p class="btn-apply">
+                                @*<a href="#">Our Vision</a> *@
+                                @{
+                                    if(Session["user"] != null){
+                                        if(Session["user"].ToString().CompareTo("") != 0 )
+                                        {
+                                            <a href="#">@Session["user"].ToString()</a>
+                                            <a href="/logout">Đăng xuất</a>
+                                        }
+                                        else{
+                                            <a href="/login">ĐĂNG NHẬP</a>
+                                            <a href="/signin">ĐĂNG KÍ</a>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <a href="/login">ĐĂNG NHẬP</a>
+                                        <a href="/signin">ĐĂNG KÍ</a>
+                                    }
+                                }
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		
+
+		<div id="colorlib-services">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 services-wrap">
+						<div class="row">
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="/tours/loai/LT0001" class="services">
+									<span class="icon">
+										<i class="flaticon-desktop"></i>
+									</span>
+									<div class="desc">
+										<h3>Tour <br> trong nước</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="services.html" class="services">
+									<span class="icon">
+										<i class="flaticon-smartphone"></i>
+									</span>
+									<div class="desc">
+										<h3>Tour <br>ngoài nước</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="services.html" class="services">
+									<span class="icon">
+										<i class="flaticon-laboratory"></i>
+									</span>
+									<div class="desc">
+										<h3>Dịch <br>vụ</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="services.html" class="services">
+									<span class="icon">
+										<i class="flaticon-computer-graphic"></i>
+									</span>
+									<div class="desc">
+										<h3>Tour <br>HOT</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="services.html" class="services">
+									<span class="icon">
+										<i class="flaticon-video-player"></i>
+									</span>
+									<div class="desc">
+										<h3>Du lịch <br>Việt Nam</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="services.html" class="services">
+									<span class="icon">
+										<i class="flaticon-layers"></i>
+									</span>
+									<div class="desc">
+										<h3>Khách sạn <br>TOP</h3>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 text-center animate-box">
+						<p><a href="https://vimeo.com/channels/staffpicks/93951774" class="btn btn-primary btn-outline btn-lg btn-discover popup-vimeo"><span class="icon"><i class="icon-play3"></i></span>Discover Courses</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	
+
+	
+
+
+
+
+		<!-- <div class="colorlib-blog colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Recent News</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6 animate-box">
+						<article class="article-entry">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-1.jpg);">
+								<p class="meta"><span class="day">18</span><span class="month">Apr</span></p>
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Creating Mobile Apps</a></h2>
+								<p class="admin"><span>Posted by:</span> <span>James Smith</span></p>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+							</div>
+						</article>
+					</div>
+					<div class="col-md-6">
+						<div class="f-blog animate-box">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-1.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">How to Create Website in Scratch</a></h2>
+								<p class="admin"><span>04 March 2018</span></p>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							</div>
+						</div>
+						<div class="f-blog animate-box">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-2.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">How to Convert PSD File to HTML File?</a></h2>
+								<p class="admin"><span>04 March 2018</span></p>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							</div>
+						</div>
+						<div class="f-blog animate-box">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-3.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">How to Build Games App in Mobile</a></h2>
+								<p class="admin"><span>04 March 2018</span></p>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> -->
+
+	<div style="width : 100%; flex-item-align : center;padding-left : 40%">
+
+    @RenderBody()
+
+    </div>
+        
+		<footer id="colorlib-footer">
+			<div class="container">
+				<div class="row row-pb-md">
+					<div class="col-md-3 colorlib-widget">
+						<h4>Contact Info</h4>
+						<ul class="colorlib-footer-links">
+							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
+							<li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
+							<li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
+							<li><a href="http://luxehotel.com"><i class="icon-location4"></i> yourwebsite.com</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2 colorlib-widget">
+						<h4>Programs</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="#"><i class="icon-check"></i> Diploma Degree</a></li>
+								<li><a href="#"><i class="icon-check"></i> BS Degree</a></li>
+								<li><a href="#"><i class="icon-check"></i> Beginner</a></li>
+								<li><a href="#"><i class="icon-check"></i> Intermediate</a></li>
+								<li><a href="#"><i class="icon-check"></i> Advance</a></li>
+								<li><a href="#"><i class="icon-check"></i> Difficulty</a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-md-2 colorlib-widget">
+						<h4>Useful Links</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="#"><i class="icon-check"></i> About Us</a></li>
+								<li><a href="#"><i class="icon-check"></i> Testimonials</a></li>
+								<li><a href="#"><i class="icon-check"></i> Courses</a></li>
+								<li><a href="#"><i class="icon-check"></i> Event</a></li>
+								<li><a href="#"><i class="icon-check"></i> News</a></li>
+								<li><a href="#"><i class="icon-check"></i> Contact</a></li>
+							</ul>
+						</p>
+					</div>
+
+					<div class="col-md-2 colorlib-widget">
+						<h4>Support</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="#"><i class="icon-check"></i> Documentation</a></li>
+								<li><a href="#"><i class="icon-check"></i> Forums</a></li>
+								<li><a href="#"><i class="icon-check"></i> Help &amp; Support</a></li>
+								<li><a href="#"><i class="icon-check"></i> Scholarship</a></li>
+								<li><a href="#"><i class="icon-check"></i> Student Transport</a></li>
+								<li><a href="#"><i class="icon-check"></i> Release Status</a></li>
+							</ul>
+						</p>
+					</div>
+
+					<div class="col-md-3 colorlib-widget">
+						<h4>Recent Post</h4>
+						<div class="f-blog">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-1.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Creating Mobile Apps</a></h2>
+								<p class="admin"><span>18 April 2018</span></p>
+							</div>
+						</div>
+						<div class="f-blog">
+							<a href="blog.html" class="blog-img" style="background-image: url(Themes/images/blog-2.jpg);">
+							</a>
+							<div class="desc">
+								<h2><a href="blog.html">Creating Mobile Apps</a></h2>
+								<p class="admin"><span>18 April 2018</span></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copy">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<p>
+								<small class="block">&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small><br> 
+								<small class="block">Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a>, <a href="http://pexels.com/" target="_blank">Pexels</a></small>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+    <!-- jQuery -->
+	<script src="~/Themes/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="~/Themes/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="~/Themes/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="~/Themes/js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="~/Themes/js/jquery.stellar.min.js"></script>
+	<!-- Flexslider -->
+	<script src="~/Themes/js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="~/Themes/js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="~/Themes/js/jquery.magnific-popup.min.js"></script>
+	<script src="~/Themes/js/magnific-popup-options.js"></script>
+	<!-- Counters -->
+	<script src="~/Themes/js/jquery.countTo.js"></script>
+	<!-- Main -->
+	<script src="~/Themes/js/main.js"></script>
+</html>

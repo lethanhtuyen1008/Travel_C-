@@ -1,0 +1,19 @@
+{
+  "FilePath": "d:\\Công Nghệ Phần Mềm\\DuPhongWin\\DuPhong_1h_10_12_2019\\QuanLiTour\\Travel_WebApp\\Travel_WebApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

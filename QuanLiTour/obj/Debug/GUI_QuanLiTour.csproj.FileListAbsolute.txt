@@ -1,0 +1,428 @@
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\PhanQuyen.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\QuanLiTourDuLich\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DatTour.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.exe
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.exe
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\PhanQuyen.dll
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\bin\Debug\PhanQuyen.pdb
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojResolveAssemblyReference.cache
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_DatTour.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachHang.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachSan.resources
+E:\BAOCAO\WIN_NC\Travel_Win\QuanLiTour\obj\Debug\QuanLiTour.MH_ChiTietTour.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChiTietTour.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachHang.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachSan.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTour.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTourControl.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DangNhap.resources
+F:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe
+F:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+F:\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.dll
+F:\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+F:\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.pdb
+F:\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojResolveAssemblyReference.cache
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_CauHinhServer.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChiTietTour.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTour.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTourControl.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DangNhap.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DatTour.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_GiaTour.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachHang.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachSan.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+F:\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+F:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+G:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.exe
+G:\DoAnWin\QuanLiTour\bin\Debug\QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+G:\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.dll
+G:\DoAnWin\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+G:\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.pdb
+G:\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojResolveAssemblyReference.cache
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_CauHinhServer.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChiTietTour.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTour.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTourControl.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DangNhap.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DatTour.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_GiaTour.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachHang.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachSan.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+G:\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+G:\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.SplashScreen1.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.LoaddingForm.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ThietKeControls.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ThietKeControls.pdb
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_GiaTour.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachDiKem.resources
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\QuanLiTour.MH_LichKhoiHanh.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\QuanLiTour.exe.config
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\QuanLiTour.exe
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\BUS_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\DTO_QuanLiTour.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\PhanQuyen.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\ThietKeControls.dll
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\BUS_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\DAL_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\DTO_QuanLiTour.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\PhanQuyen.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\bin\Debug\ThietKeControls.pdb
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojResolveAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_Admin.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_CauHinhServer.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_ChiTietTour.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTour.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_ChuongTrinhTourControl.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_DangNhap.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachDiKem.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_DanhSachTourMo.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.FormMain.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_DatTour.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_GiaTour.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachHang.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_KhachSan.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_LichKhoiHanh.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_NhomNguoiDung.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_PhanQuyen.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_QuanLyTour.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongTinTaiKhoan.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.SplashScreen1.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.LoaddingForm.resources
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.GenerateResource.Cache
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.exe.licenses
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Images.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.Extensions.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DAL_QuanLiTour.dll.config
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.ExpressApp.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Persistent.Base.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Snap.v17.1.Extensions.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraRichEdit.v17.1.Extensions.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\PhanQuyen.dll.config
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Snap.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Snap.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Snap.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Snap.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Snap.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Snap.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Snap.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Snap.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Snap.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.Extensions.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csprojAssemblyReference.cache
+D:\Công Nghệ Phần Mềm\DoAnWin\QuanLiTour\obj\Debug\GUI_QuanLiTour.csproj.CopyComplete
+D:\Công Nghệ Phần Mềm\DuPhongWin\DuPhong_1h_10_12_2019\QuanLiTour\obj\Debug\QuanLiTour.MH_ThongKeDatTour.resources

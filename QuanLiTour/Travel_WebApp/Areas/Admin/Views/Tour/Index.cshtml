@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    var k = 1;
+}
+@model IEnumerable<DTO_QuanLiTour.DTO_TourAll>
+    <div id="content-wrapper">
+
+      <div class="container-fluid">
+
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/Admin">Trang chủ</a>
+          </li>
+          <li class="breadcrumb-item active">Tours</li>
+        </ol>
+
+        <!-- DataTables Example -->
+        <div class="card mb-3">
+          <div class="card-header">
+            <i class="fas fa-table"></i>
+            Danh sách tour</div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                  <tr>
+                    <th>STT</th>
+                    <th>Tên</th>
+                    <th>Loại</th>
+                    <th>Số ngày</th>
+                    <th>Số chỗ</th>
+                    <th>Giá</th>
+                    <th>Hình</th>
+                    <th>
+                        Admin
+                    </th>
+                  </tr>
+                </thead>
+                <tfoot>
+                  <tr>
+                    <th>STT</th>
+                    <th>Tên</th>
+                    <th>Loại</th>
+                    <th>Số ngày</th>
+                    <th>Số chỗ</th>
+                    <th>Giá</th>
+                    <th>Hình</th>
+                    <th>Admin</th>
+                  </tr>
+                </tfoot>
+                <tbody>
+
+                 @foreach(var item in Model){
+                      <tr>
+                          <td>@k</td>
+                        <td>@item.TenTour</td>
+                        <td>@item.TenLoai</td>
+                        <td>@item.SoNgay</td>
+                        <td>@item.SoCho</td>
+                        <td>@item.GIA vnđ</td>
+                        <td><img src="~/Themes/images/@item.TENHINH" alt="@item.TenTour" style="width: 70px; height : 70px"></td>
+                         <td><a href="tour/edit/@item.MaTour">Sửa</a></td>
+                      </tr>
+                     k++;
+                  }
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="card-footer small text-muted">Cập nhật</div>
+        </div>
+
+        <p class="small text-center text-muted my-5">
+          <em>hiển thị nhiều hơn</em>
+        </p>
+
+      </div>
+      <!-- /.container-fluid -->
+
+      <!-- Sticky Footer -->
+      <footer class="sticky-footer">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright © Your Website 2019</span>
+          </div>
+        </div>
+      </footer>
+
+    </div>

@@ -1,0 +1,109 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="/booking/Create" method="post">
+<div class="col-xs-12 mg-bot30">
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="">
+                        <label>Họ tên (<span class="star">*</span>)</label>
+                        <div>
+                            <input class="form-control" id="contact_name" name="loaithanhtoan" required="required" type="text" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Di động (<span class="star">*</span>)</label>
+                        <div>
+                            <input class="form-control" id="mobilephone" name="mobilephone" onchange="CheckMobile();" onkeypress="return funCheckInt(event)" required="required" type="text" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Địa chỉ</label>
+                        <div>
+                            <input class="form-control" id="address" name="address" type="text" value="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="form-group">
+                        <label>Email (<span class="star">*</span>)</label>
+                        <div>
+                            <input class="form-control" id="email" name="email" required="required" type="email" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Điện thoại</label>
+                        <div>
+                            <input class="form-control" id="phone" name="phone" onkeypress="return funCheckInt(event)" type="text" value="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-2 col-xs-6 mg-bot15">
+                                <label>Điểm đón</label>
+                                <div>
+                                    <input class="form-control" id="adult" name="treem" onblur="javascript:clear_text(this);" onkeypress="return funCheckInt(event)" type="text" value="Sài Gòn">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-2 col-xs-6  mg-bot15">
+                                <label>Trẻ em</label>
+                                <div>
+                                    <input class="form-control" id="children11" name="children11" onblur="javascript:clear_text(this);" onclick="javascript:show_text('Từ 5 tuổi đến dưới 12 tuổi',this)" onkeypress="return funCheckInt(event)" type="text" value="0">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-3 col-xs-6  mg-bot15">
+                                <label>Trẻ nhỏ</label>
+                                <div>
+                                    <input class="form-control" id="children" name="children" onblur="javascript:clear_text(this);" onclick="javascript:show_text('Từ 2 tuổi đến dưới 5 tuổi',this)" onkeypress="return funCheckInt(event)" type="text" value="0">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-2 col-xs-6 mg-bot15">
+                                <label>Em bé</label>
+                                <div>
+                                    <input class="form-control" id="small_children" name="embe" onblur="javascript:clear_text(this);" onclick="javascript:show_text('Dưới 2 tuổi',this)" onkeypress="return funCheckInt(event)" type="text" value="0">
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                                <label>Số khách</label>
+                                <div>
+                                    <input class="form-control" id="guests" name="guests" readonly="readonly" type="text" value="1">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="form-group">
+                        <label>Ghi chú</label>
+                        <div>
+                            <textarea class="form-control" cols="20" id="note" name="ghichu" rows="4"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="chuy">
+                        <ul class="row list-chuy">
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                Người lớn sinh từ: <span class="font500"> 15/12/1949</span> đến <span class="font500">15/12/2007</span>
+                            </li>
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                Trẻ em sinh từ: <span class="font500">16/12/2007</span> đến <span class="font500">15/12/2014</span>
+                            </li>
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                Trẻ nhỏ sinh từ: <span class="font500">16/12/2014</span> đến <span class="font500">15/12/2017</span>
+                            </li>
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                Em bé sinh từ: <span class="font500">16/12/2017</span> đến <span class="font500">10/12/2019</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="padding-left : 40%; padding-top : 100px">
+            <div style="padding-top : 100px"><button type="submit" class="btn btn-danger" style="width : 300px; height : 50px">Đặt ngay</button></div>
+        </div>
+    
+    </form>

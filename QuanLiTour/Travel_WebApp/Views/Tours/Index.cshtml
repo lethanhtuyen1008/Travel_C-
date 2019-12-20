@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model IEnumerable<DTO_QuanLiTour.DTO_TourAll>
+	<div class="colorlib-classes">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 colorlib-heading center-heading text-center animate-box">
+						<h1 class="heading-big">Danh sách tour du lịch HOT</h1>
+						<h2>Danh sách tour du lịch HOT</h2>
+					</div>
+				</div>
+				<div class="row">
+					    @foreach(var item in Model){
+					            <div class="col-md-4 animate-box">
+						            <div class="classes">
+							            @*<div class="classes-img" style="background-image: url(Themes/images/classes-6.jpg);">*@
+                                             <div class="classes-img" style="background-image: url(Themes/images/@item.TENHINH);">
+							            </div>
+							            <div class="wrap">
+								            <div class="desc" style="height : 150px">
+									            <span class="teacher">@item.TenLoai</span>
+									            <h3><a href="/tours/details/@item.MaTour" >@item.TenTour</a></h3>
+								            </div>
+								            <div class="pricing">
+									            <p><span class="price">@item.GIA đ</span> <span class="price old-price">@item.GIA-5</span> <span class="more"><a href="#"><i class="icon-link"></i></a></span></p>
+								            </div>
+							            </div>
+						            </div>
+					            </div>
+                            }
+				</div>
+			</div>	
+		</div>
+
